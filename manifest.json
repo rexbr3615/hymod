@@ -1,0 +1,15 @@
+{
+  "Group": "PTBR",
+  "Name": "RexBR'X Brazilian Portuguese Translation",
+  "Version": "0.1.2",
+  "Description": "Pacote de Tradução Brasileira para o Hytale!",
+  "Authors": [
+    {
+      "Name": "RexBR'X"
+    }
+  ],
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}

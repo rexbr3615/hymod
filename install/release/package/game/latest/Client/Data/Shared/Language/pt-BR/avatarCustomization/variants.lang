@@ -1,0 +1,33 @@
+earSide = Lado da orelha
+earSide.left = Esquerdo
+earSide.right = Direito
+earSide.both = Ambos
+
+pattern.skull = Caveira
+pattern.star = Estrela
+pattern.gaia = Árvore prismática
+pattern.cat = Gato
+pattern.bunny = Coelho
+pattern.unicorn = Unicórnio
+pattern.play = Botão “Play”
+pattern.play_inverted = Botão “Play” invertido
+
+pants.dungareesshorts = Shorts jardineira
+pants.bracedshorts = Shorts com suspensórios
+pants.dungarees = Jardineira
+pants.bracedpants = Calças com suspensórios
+
+default = Padrão
+
+overtops.Scavenger_Poncho = Sem caveira
+
+capes.no_neck = Sem gola
+
+haircuts.Dreadlocks01.name = Dreadlocks 1
+haircuts.Dreadlocks02.name = Dreadlocks 2
+haircuts.Dreadlocks03.name = Dreadlocks 3
+haircuts.SlickbackCowlick.name = [TMP] Cabelo penteado para trás com redemoinho
+
+headaccessory.Logo_Cap_Movie.name = Logotipo de filme
+headaccessory.Logo_Cap_Heart.name = Logotipo de coração
+headaccessory.Logo_Cap_Hypixel.name = Logotipo Hypixel
