@@ -2259,3 +2259,98 @@ feedback.success.submitMore = Enviar Mais
 
 
 bugReportButton.tooltip = Reportar Bug ou Feedback
+
+# === patchline ===
+# Patchlines allow early release of content to help players test new features
+
+patchline.launchNotification.title = Pre-release Patchline
+patchline.launchNotification.text = You are running a pre-release patchline of Hytale.\n\n\
+    This version may contain experimental features and bugs.\n\n\
+    Your feedback helps us improve the game!
+
+patchline.worldWarning.title = Patchline Warning
+patchline.worldWarning.text = You are about to open a world using a different patchline.\n\n\
+    Opening this world may introduce changes that could affect your save.\n\n\
+    We recommend creating a backup copy before continuing.
+patchline.worldWarning.openAnyway = Abrir de Mesmo Assim
+patchline.worldWarning.duplicateWorld = Duplicar Mundo
+
+# === cosmetics ===
+cosmetics.color.skinTone = Tom de Pele
+
+# Hair Gradients
+cosmetics.color.PitchBlack = Manta Black
+cosmetics.color.Black = Preto
+cosmetics.color.BrownDarker = Castanho Carvão
+cosmetics.color.BrownDark = Castanho Escuro
+cosmetics.color.BrownSemiDark = Castanho quase Escuro
+cosmetics.color.Brown = Castanho
+cosmetics.color.BrownSemiLight = Castanho Claro quase Castanho
+cosmetics.color.BrownLight = Castanho Claro
+cosmetics.color.Blond = Loiro
+cosmetics.color.BlondPlatinum = Loiro Platinano
+cosmetics.color.BlondSand = Loiro Natural
+cosmetics.color.BlondCaramel = Loiro Caramelo
+cosmetics.color.Copper = Cobre
+cosmetics.color.Red = Ruivo
+cosmetics.color.RedDark = Ruivo Escuro
+cosmetics.color.Pink = Rosa
+cosmetics.color.PinkBerry = Rosa Fruta
+cosmetics.color.Bubblegum = Bubblegum
+cosmetics.color.Purple = Roxo
+cosmetics.color.Lavender = Lavanda
+cosmetics.color.BlueDark = Azul Escuro
+cosmetics.color.Blue = Azul
+cosmetics.color.BlueLight = Azul Claro
+cosmetics.color.Turquoise = Turquesa
+cosmetics.color.Green = Verde
+cosmetics.color.White = Grisalho
+cosmetics.color.GreyAsh = Cinzas
+cosmetics.color.Grey = Cinza
+cosmetics.color.GreyPurple = Cinza Roxo
+cosmetics.color.Blue_Anthracite = Anthracite Blue?
+
+# Shiny_Fabric Gradients
+cosmetics.color.Lime = Limão
+cosmetics.color.Orange = Laranja
+cosmetics.color.Yellow = Amarelo
+cosmetics.color.Violet = Violeta
+
+# Jean_Generic Gradients
+cosmetics.color.BluePastel = Azul Pastel
+cosmetics.color.GreyDark = Cinza Escuro
+cosmetics.color.GreyLight = Cinza Claro
+cosmetics.color.GreyBlue = Azul Acizentado
+cosmetics.color.Marine_Blue = Azul Marinho
+cosmetics.color.Maroon = Vinho
+cosmetics.color.Blue_Night = Azul Noturno
+cosmetics.color.Turquoise_Dark = Turquesa Escuro
+
+# Faded_Leather Gradients
+cosmetics.color.Orange_Tan = Tan Orange
+
+# Flashy_Synthetic Gradients
+cosmetics.color.OrangePastel = Laranja Pastel
+cosmetics.color.PinkPastel = Rosa Pastel
+
+# Colored_Cotton Gradients
+cosmetics.color.Cream = Creme
+cosmetics.color.Charcoal = Carvão
+
+# Pastel_Cotton Gradients
+cosmetics.color.Carmin = Carmin
+cosmetics.color.PurplePastel = Roxo Pastel
+
+# Fantasy_Cotton Gradients
+cosmetics.color.Beige = Bege
+
+# Eyes Gradients
+cosmetics.color.Honey = Mel
+cosmetics.color.GreenLight = Verde Claro
+
+# Ornamented_Metal Gradients
+cosmetics.color.Gold_Red = Ouro
+cosmetics.color.Silver_Blue = Prata
+cosmetics.color.Copper_Green = Cobre
+cosmetics.color.Brass_Purple = Latão
+cosmetics.color.Iron_Black = Ferro
