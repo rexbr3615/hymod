@@ -31,3 +31,10 @@ haircuts.SlickbackCowlick.name = [TMP] Cabelo penteado para trás com redemoinho
 headaccessory.Logo_Cap_Movie.name = Logotipo de filme
 headaccessory.Logo_Cap_Heart.name = Logotipo de coração
 headaccessory.Logo_Cap_Hypixel.name = Logotipo Hypixel
+
+thin.name = Pequeno
+thick.name = Grande
+lefteye.name = Olho Esquerdo
+righteye.name = Olho Direito
+
+faceaccessory.BanditMask_SideKnot.name = Nó lateral
